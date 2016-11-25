@@ -1,4 +1,4 @@
-package com.example.acc;
+package com.example.acc.com.example.acc.com.example.acc.helloworld;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

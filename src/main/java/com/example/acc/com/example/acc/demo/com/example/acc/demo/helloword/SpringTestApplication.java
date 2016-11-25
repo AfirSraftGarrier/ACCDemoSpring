@@ -1,4 +1,4 @@
-package com.example.acc;
+package com.example.acc.com.example.acc.demo.com.example.acc.demo.helloword;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.*;

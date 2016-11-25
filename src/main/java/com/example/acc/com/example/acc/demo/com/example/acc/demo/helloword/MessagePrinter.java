@@ -1,6 +1,5 @@
-package com.example.acc;
+package com.example.acc.com.example.acc.demo.com.example.acc.demo.helloword;
 
-import com.example.acc.MessageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
